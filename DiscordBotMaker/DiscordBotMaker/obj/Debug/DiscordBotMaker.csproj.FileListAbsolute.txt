@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\bin\Debug\DiscordBotMaker.exe.config
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\bin\Debug\DiscordBotMaker.exe
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\bin\Debug\DiscordBotMaker.pdb
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.csprojAssemblyReference.cache
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.Form1.resources
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.Properties.Resources.resources
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.csproj.GenerateResource.cache
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.exe
+C:\Users\david\Desktop\dbm\DiscordBotMaker\DiscordBotMaker\obj\Debug\DiscordBotMaker.pdb
